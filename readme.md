@@ -36,9 +36,13 @@ This API will incorporate two endpoints:
 
 The url/path of these endpoints is at your discretion.
 
-The customer record endpoint should also provide a filter on the querystring to filter by at least 1 tag, and the following for number of employees:
+The customer record endpoint should also provide a filter on the querystring to filter by at least 1 tag, and/or the following for number of employees:
 - 1-10
 - 11-50
-- >50
+- &gt;50
 
 Please include the data in your database in your git repository with a database dump.
+
+## Questions?
+
+If you have any questions around the implementation of this exercise, please open an Issue on the master repository.
