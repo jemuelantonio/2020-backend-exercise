@@ -41,8 +41,8 @@ The customer record endpoint should also provide a filter on the querystring to 
 - 11-50
 - &gt;50
 
-Please include the data in your database in your git repository with a database dump.
+Please include the data in your database in your git repository with a plaintext database dump.
 
 ## Questions?
 
-If you have any questions around the implementation of this exercise, please open an Issue on the master repository.
+If you have any questions around the implementation of this exercise, please open an Issue on the parent repository at https://github.com/fonedynamics
